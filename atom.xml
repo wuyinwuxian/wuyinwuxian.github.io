@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-09-28T09:06:56.090Z</updated>
+  <updated>2021-05-06T18:59:36.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,140 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2021/09/30/ge-chong-qi-qi-guai-guai-luan-ma-chu-xian-de-yuan-yin/"/>
+    <id>http://yoursite.com/2021/09/30/ge-chong-qi-qi-guai-guai-luan-ma-chu-xian-de-yuan-yin/</id>
+    <published>2021-09-30T01:51:58.384Z</published>
+    <updated>2021-05-06T18:59:36.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/20201130121732353.png#center&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2021/09/30/gao-lou-reng-ji-dan-fei-chang-qian-xian-yi-dong-de-fang-shi-dan-shi-fu-za-du-bing-bu-shi-zui-di-a/"/>
+    <id>http://yoursite.com/2021/09/30/gao-lou-reng-ji-dan-fei-chang-qian-xian-yi-dong-de-fang-shi-dan-shi-fu-za-du-bing-bu-shi-zui-di-a/</id>
+    <published>2021-09-30T01:51:58.376Z</published>
+    <updated>2021-05-06T19:00:04.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;你面前有一栋从 1 到 N 共 N 层的楼，然后给你 K 个鸡蛋（ K 至少为 1）。现在确定这栋楼存在楼层 0 &amp;lt;= F &amp;lt;= N ，在这层楼将鸡蛋扔下去，鸡蛋恰好没摔碎（大于 F 的楼层都会碎，低于 F
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2021/09/30/fu-wu-qi-an-zhuang-frp-shi-bao-cuo.frps-cannot-execute-binary-file-exec-format-error/"/>
+    <id>http://yoursite.com/2021/09/30/fu-wu-qi-an-zhuang-frp-shi-bao-cuo.frps-cannot-execute-binary-file-exec-format-error/</id>
+    <published>2021-09-30T01:51:58.368Z</published>
+    <updated>2021-05-06T18:59:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;&amp;nbsp;     &amp;nbsp;  &amp;nbsp;     &amp;nbsp;  在Ubuntu的服务器上安装 fpr 时，出错
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2021/09/30/fan-zhuan-vector-de-shi-xian-qi-shi-yi-jing-you-reverse-liao-dan-shi-xiang-zi-ji-xie-yi-xia/"/>
+    <id>http://yoursite.com/2021/09/30/fan-zhuan-vector-de-shi-xian-qi-shi-yi-jing-you-reverse-liao-dan-shi-xiang-zi-ji-xie-yi-xia/</id>
+    <published>2021-09-30T01:51:58.357Z</published>
+    <updated>2021-05-06T19:00:04.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;如题  想反转vector &lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;void&lt;/span&gt; &lt;span
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2021/09/30/er-wei-shu-zu-de-shun-shi-zhen-xuan-zhuan-yu-ni-shi-zhen-xuan-zhuan-python-c-er-wei-shu-zu-qu-di-i-lie-yuan-su-zu-cheng-yi-ge-xin-lie-biao-python/"/>
+    <id>http://yoursite.com/2021/09/30/er-wei-shu-zu-de-shun-shi-zhen-xuan-zhuan-yu-ni-shi-zhen-xuan-zhuan-python-c-er-wei-shu-zu-qu-di-i-lie-yuan-su-zu-cheng-yi-ge-xin-lie-biao-python/</id>
+    <published>2021-09-30T01:51:58.351Z</published>
+    <updated>2021-05-06T19:00:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;刷剑指offer时候遇到的，写一个小功能函数放这儿&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/qq_43657442/article/details/106737961&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2021/09/30/er-jin-zhi-si-xiang-yu-te-zheng-xuan-ze/"/>
+    <id>http://yoursite.com/2021/09/30/er-jin-zhi-si-xiang-yu-te-zheng-xuan-ze/</id>
+    <published>2021-09-30T01:51:58.341Z</published>
+    <updated>2021-05-06T19:00:08.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;从这篇博文得到的启发  &lt;a href=&quot;https://blog.csdn.net/qq_43657442/article/details/98494959&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>test博客</title>
